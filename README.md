@@ -1,2 +1,5 @@
-# ISN2022_Optimization
-Material from the course of Static and Dynamic Optimization at ENSEM - Université de Lorraine.
+## Université de Lorraine - ISN ENSEM
+# Optimization Statique et Dynamique
+
+Matériel du cours du S7 - 2èmme année 2022/2. Professeur : Pierre Riedinger.
+
